@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="side_images_array">
+        <item>@drawable/aircraft</item>
+        <item>@drawable/point</item>
+        <item>@drawable/sound</item>
+        <item>@drawable/setup</item>
+        <item>@drawable/display</item>
+        <item>@drawable/point</item>
+        <item>@drawable/celestial</item>
+        <item>@drawable/track</item>
+        <item>@drawable/routes</item>
+        <item>@drawable/gps</item>
+        <item>@drawable/eb</item>
+        <item>@drawable/alarm</item>
+        <item>@drawable/flights</item>
+    </array>
+</resources>
